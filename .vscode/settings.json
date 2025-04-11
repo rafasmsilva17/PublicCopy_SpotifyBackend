@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "validation.h": "c",
+        "queries_manager.h": "c",
+        "types.h": "c",
+        "stdlib.h": "c",
+        "artist.h": "c",
+        "parsinginputs.h": "c",
+        "testes.h": "c",
+        "data_manager.h": "c",
+        "stdio.h": "c",
+        "user.h": "c",
+        "uteis.h": "c",
+        "q3.h": "c",
+        "estatisticas.h": "c",
+        "string.h": "c",
+        "artist_manager.h": "c",
+        "music.h": "c"
+    }
+}
